@@ -1,0 +1,12 @@
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_URL": "http://192.168.179.23:5000/api"
+      }
+    }
+  }
+}
